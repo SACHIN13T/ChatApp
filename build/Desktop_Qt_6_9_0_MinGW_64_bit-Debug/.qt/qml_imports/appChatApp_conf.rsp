@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Victus/CPlusPlusQt/ChatApp
+-cmake-output
+-output-file
+C:/Users/Victus/CPlusPlusQt/ChatApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appChatApp_conf.cmake
+-importPath
+C:/Users/Victus/CPlusPlusQt/ChatApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/ChatApp
+-importPath
+C:/Users/Victus/CPlusPlusQt/ChatApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+C:/Users/Victus/CPlusPlusQt/ChatApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_ChatApp.qrc
+C:/Users/Victus/CPlusPlusQt/ChatApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appChatApp_raw_qml_0.qrc

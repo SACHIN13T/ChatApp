@@ -1,0 +1,6 @@
+*.user 
+*.pro.user* 
+*.qmlproject.user* 
+build-*/ 
+*.autosave 
+*.log 
