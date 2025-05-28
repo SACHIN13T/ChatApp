@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f3f457db22e88c90039f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ChatApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-9cb5993e5cf0e8daee87.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-bea49d5a38c524b7b1b3.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-c7f0d8d3635cda9848bc.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9d02980d528b9cf06859.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-78da5d0e0f6d00b6ac37.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChatApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChatApp-Debug-801684b1405ed9f64d23.json",
+					"name" : "appChatApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChatApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChatApp_autogen-Debug-a8d9ae699dd16712da35.json",
+					"name" : "appChatApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChatApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChatApp_autogen_timestamp_deps-Debug-20d810c86741cb1c7c71.json",
+					"name" : "appChatApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChatApp_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChatApp_copy_qml-Debug-809ff5d49b3db1115868.json",
+					"name" : "appChatApp_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChatApp_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChatApp_copy_res-Debug-01df1e3ea15507d9f6a4.json",
+					"name" : "appChatApp_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChatApp_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChatApp_qmlimportscan-Debug-c5c316976f00929691ad.json",
+					"name" : "appChatApp_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChatApp_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChatApp_qmllint-Debug-e9d38539aa03b9a02828.json",
+					"name" : "appChatApp_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChatApp_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChatApp_qmllint_json-Debug-aed8bb11392fd96b4b5e.json",
+					"name" : "appChatApp_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChatApp_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChatApp_qmllint_module-Debug-6327d7932ceca588eec5.json",
+					"name" : "appChatApp_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChatApp_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChatApp_qmltyperegistration-Debug-d0f7521f1cef7b26935e.json",
+					"name" : "appChatApp_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appChatApp_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appChatApp_aotstats_target-Debug-fe10de1195aa55b805c7.json",
+					"name" : "module_appChatApp_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Victus/CPlusPlusQt/ChatApp/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Victus/CPlusPlusQt/ChatApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

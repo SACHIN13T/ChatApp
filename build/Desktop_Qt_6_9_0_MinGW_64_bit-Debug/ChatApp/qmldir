@@ -1,0 +1,6 @@
+module ChatApp
+typeinfo appChatApp.qmltypes
+prefer :/qt/qml/ChatApp/
+Main 1.0 Main.qml
+RegisterView 1.0 RegisterView.qml
+

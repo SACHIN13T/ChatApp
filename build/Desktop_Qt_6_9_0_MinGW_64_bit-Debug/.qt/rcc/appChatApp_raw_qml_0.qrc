@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/ChatApp/">
+    <file alias="Main.qml">C:/Users/Victus/CPlusPlusQt/ChatApp/Main.qml</file>
+    <file alias="RegisterView.qml">C:/Users/Victus/CPlusPlusQt/ChatApp/RegisterView.qml</file>
+    <file alias="resources.qrc">C:/Users/Victus/CPlusPlusQt/ChatApp/resources.qrc</file>
+  </qresource>
+</RCC>
+

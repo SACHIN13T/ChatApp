@@ -13,6 +13,7 @@ int main(int argc, char *argv[])
         []() { QCoreApplication::exit(-1); },
         Qt::QueuedConnection);
     engine.loadFromModule("ChatApp", "Main");
+    //engine.load(QUrl(QStringLiteral("qrc:/main.qml")));
 
     return app.exec();
 }
